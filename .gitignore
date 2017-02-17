@@ -1,0 +1,17 @@
+# ignore OS X system files
+.DS_Store
+
+# ignore IDE generated files
+.idea
+
+# ignore python cache
+__pycache__
+*/__pycache__
+*.pyc
+
+# ignore tmp dir
+data
+
+# ignore log
+*.log
+nohup.out
